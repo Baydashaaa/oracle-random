@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30719307/README.md)
 # oracle-random
 
 Commit-reveal randomness beacon for Terra Classic.
