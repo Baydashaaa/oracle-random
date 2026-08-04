@@ -1,6 +1,5 @@
 target/
 artifacts/
-Cargo.lock
 *.wasm
 hash.txt
 .DS_Store
