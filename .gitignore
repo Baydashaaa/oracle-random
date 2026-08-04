@@ -3,3 +3,7 @@ artifacts/
 *.wasm
 hash.txt
 .DS_Store
+round*.txt
+create.json
+reveal.json
+.contract-rebel2

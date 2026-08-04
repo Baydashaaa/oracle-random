@@ -1,0 +1,8 @@
+{
+  "admin": "terra1ufn6575ta92xmgzrllpf5cguycwd4kyyf5uetw",
+  "deposit_denom": "uluna",
+  "min_deposit": "1000000",
+  "min_round_duration_secs": 300,
+  "max_round_duration_secs": 86400,
+  "reveal_window_secs": 900
+}
