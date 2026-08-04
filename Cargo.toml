@@ -38,4 +38,3 @@ sha2 = "0.10"
 hex = "0.4"
 
 [dev-dependencies]
-cw-multi-test = "0.20.0"
