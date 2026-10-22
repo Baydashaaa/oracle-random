@@ -73,3 +73,9 @@ docker run --rm -v "$(pwd)":/code \
 
 Match the optimizer and the `cosmwasm-std` version to what oracle-score used
 and to what Terra Classic supports.
+
+## Mainnet
+
+- code_id 11744 on columbus-5, stored 2026-10-22 by `terra10u209ehlww30hknp85z0rq5uz3q5jx3pclx9xt`
+- sha256 `c9cb73d1c9a493a3e637eb67999c9b17c972694fca5f55664dbdf76a6d26f96b`, rebuilt from `e5240c8` with cosmwasm/optimizer:0.16.0, matches the chain
+- stored code only, not instantiated yet
